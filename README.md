@@ -1,4 +1,3 @@
-## Hi there 👋
 🐨 G'day fellas<br>
 📖 Learning Full stack<br>
 🔥 Competive Gamer<br>
